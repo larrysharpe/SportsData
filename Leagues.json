@@ -1,0 +1,66 @@
+{
+  "Leagues": {
+    "nfl": {
+      "abbreviation": "NFL",
+      "full_name": "National Football League"
+    },
+    "nfc": {
+      "abbreviation": "NFC",
+      "full_name": "National Football Conference",
+      "parent": "nfl"
+    },
+    "afc": {
+      "abbreviation": "AFC",
+      "full_name": "American Football Conference",
+      "parent": "nfl"
+    },
+    "nfce": {
+      "abbreviation": "NFCE",
+      "full_name": "National Football Conference East",
+      "nickname": "NFC East",
+      "parent": "nfc"
+    },
+    "nfcn": {
+      "abbreviation": "NFCN",
+      "full_name": "National Football Conference North",
+      "nickname": "NFC North",
+      "parent": "nfc"
+    },
+    "nfcs": {
+      "abbreviation": "NFCS",
+      "full_name": "National Football Conference South",
+      "nickname": "NFC South",
+      "parent": "nfc"
+    },
+    "nfcw": {
+      "abbreviation": "NFCW",
+      "full_name": "National Football Conference West",
+      "nickname": "NFC West",
+      "parent": "nfc"
+    },
+    "afce": {
+      "abbreviation": "AFCE",
+      "full_name": "American Football Conference East",
+      "nickname": "AFC East",
+      "parent": "afc"
+    },
+    "afcn": {
+      "abbreviation": "AFCN",
+      "full_name": "American Football Conference North",
+      "nickname": "AFC North",
+      "parent": "afc"
+    },
+    "afcs": {
+      "abbreviation": "AFCS",
+      "full_name": "American Football Conference South",
+      "nickname": "AFC South",
+      "parent": "afc"
+    },
+    "afcw": {
+      "abbreviation": "AFCW",
+      "full_name": "American Football Conference West",
+      "nickname": "AFC West",
+      "parent": "afc"
+    }
+  }
+}
